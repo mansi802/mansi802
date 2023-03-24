@@ -14,7 +14,7 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 <p align="left">
 <a href="https://dev.to/mansi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mansi2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mansi-singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-singla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abcde2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abcde2001" height="30" width="40" /></a>
+<a href="https://leetcode.com/annyeong01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abcde2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mansicse19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mansicse19" height="30" width="40" /></a>
 </p>
 
