@@ -6,7 +6,7 @@ Currently a Full Stack Web Developer using JavaScript Technologies. Super nerd w
 - 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
 - 💬 Ask me about React, Node.js, JavaScript, Express.js, career or technology advice.. 🙌
 - 👯 I’m looking to collaborate with other open source contributor
-- 📫 How to reach me **mansisingla802@gamil.com**
+- 📫 How to reach me **mansisingla802@gmail.com**
 - ⚡ Fun fact: I am on Laptop more than half of the day.
 <!-- - Check out my [Resume](https://drive.google.com/file/d/18in0MaSZPmQ3Nd50B-rPrazfBGZK_ee7/view?usp=sharing) -->
 
